@@ -1,3 +1,5 @@
+package Week01;
+
 import java.util.*;
 
 public class UsernameChecker {
